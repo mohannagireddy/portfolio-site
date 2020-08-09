@@ -1,0 +1,128 @@
+.top-container {
+  background-color: #EAF6F6;
+  margin: 0;
+  position: relative;
+  padding-top: 100px;
+}
+
+h1 {
+  margin: 20px;
+  font-size: 5.62rem;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+.intro{
+  width: 30%;
+   margin: auto;
+}
+body {
+  color: #40514e;
+  margin: 0;
+   text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+#circular{
+border-radius: 100px;
+width: 200px;
+}
+.tech-img{
+  float: left;
+  width:25%;
+}
+.chicken-img{
+
+  float: right;
+  width: 25%;
+
+}
+hr{
+  margin: 50px auto;
+  border-style: dotted none none;
+  border-color: #ceccc8;
+  width: 5%;
+  border-width: 6px;
+}
+.skills{
+  margin :100px auto 100px auto;
+}
+.skill-row{
+  width: 50%;
+  margin :100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.btn {
+  margin-top: 30px;
+  background: #21c4a6;
+  background-image: -webkit-linear-gradient(top, #21c4a6, #2bb8a5);
+  background-image: -moz-linear-gradient(top, #21c4a6, #2bb8a5);
+  background-image: -ms-linear-gradient(top, #21c4a6, #2bb8a5);
+  background-image: -o-linear-gradient(top, #21c4a6, #2bb8a5);
+  background-image: linear-gradient(to bottom, #21c4a6, #2bb8a5);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 19px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.contact-me{
+  line-height: 2;
+  margin: 100px auto 100px auto;
+}
+.bottom-container{
+  padding: 60px;
+  background-color: #66BFBF;
+}
+a{
+    margin: 10px;
+    color: #11999E;
+}
+a:hover{
+  color: #EAF6F6;
+}
+#copyrights{
+  margin: 30px auto 0px auto;
+ color: #EAF6F6;
+}
+.profile{
+ margin: 50px auto 50px auto;
+}
+.footer-link{
+  padding: 20px;
+  font-size: 20px;
+}
